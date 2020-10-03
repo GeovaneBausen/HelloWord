@@ -42,7 +42,7 @@ public class avaliacao2 {
 		//estrutura de repetição
 		while(i<max) {
 			
-		matricula =	InOut.leInt("Insira o número de  matricula");
+		matricula = InOut.leInt("Insira o número de  matricula");
 		
 		if (matricula ==0 ) {
 		System.exit(0); // se o número igual a zero o programa termina 
